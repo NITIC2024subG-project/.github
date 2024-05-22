@@ -7,3 +7,4 @@
 ## メンバー
 - [はしもとかずさ](https://github.com/kazu-321)
 - [くにいまはん](https://github.com/maku0403)
+- [ながおかたくと](https://github.com/Taku-716)
